@@ -1,0 +1,18 @@
+{
+  "name": "jereo",
+  "version": "1.0.2",
+  "main": "jereo",
+  "bin": {
+    "stp": "./jereo"
+  },
+  "repository": "https://github.com/Shiro-cha/jereo.git",
+  "author": "Shiro-cha <noum.rzdr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "simple-git": "^3.14.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.13"
+  }
+}
